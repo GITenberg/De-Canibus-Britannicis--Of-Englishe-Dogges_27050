@@ -1,0 +1,44 @@
+_repo: De-Canibus-Britannicis--Of-Englishe-Dogges_27050
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Fleming, Abraham
+    deathdate: 1607
+    gutenberg_agent_id: '32416'
+    url: http://www.gutenberg.org/2009/agents/32416
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caius, John
+    aliases:
+    - Keys, John
+    - Key, John
+    - Caius, Iohannes
+    - Keye, John
+    - Kaye, John
+    - Kay, John
+    - Kees, John
+    - Cay, John
+    birthdate: 1510
+    deathdate: 1573
+    gutenberg_agent_id: '32107'
+    url: http://www.gutenberg.org/2009/agents/32107
+    wikipedia: http://en.wikipedia.org/wiki/John_Caius
+description: ''
+gutenberg_issued: '2008-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27050'
+language:
+- en
+- la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Early works to 1800'
+- !lcc 'SF'
+title: 'De Canibus Britannicis: Of Englishe Dogges'
+url: http://www.gutenberg.org/ebooks/27050
