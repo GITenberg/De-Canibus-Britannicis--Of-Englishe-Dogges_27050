@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32107
     wikipedia: http://en.wikipedia.org/wiki/John_Caius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27050#De-Canibus-Britannicis--Of-Englishe-Dogges
 gutenberg_issued: '2008-10-26'
 gutenberg_type: Text
 identifiers:
